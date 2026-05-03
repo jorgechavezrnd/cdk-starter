@@ -12,3 +12,8 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `npx cdk deploy`  deploy this stack to your default AWS account/region
 * `npx cdk diff`    compare deployed stack with current state
 * `npx cdk synth`   emits the synthesized CloudFormation template
+
+## Good references for CDK
+
+* [AWS CDK v2 API Reference](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
+* [AWS CDK GitHub Repository](https://github.com/aws/aws-cdk)
