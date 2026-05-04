@@ -34,6 +34,10 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * [Original course repository](https://github.com/alexhddev/CDK-course-resources)
 * [Udemy course — AWS TypeScript CDK, Serverless & React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/)
 
+## CloudFormation best practices
+
+* [AWS CloudFormation Best Practices](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html)
+
 ## Good references for CDK
 
 * [AWS CDK v2 API Reference](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
