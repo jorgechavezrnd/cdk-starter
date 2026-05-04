@@ -29,6 +29,11 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 * `npx cdk deploy --parameters duration=9`  pass a parameter value at deploy time
 
+## Course resources
+
+* [Original course repository](https://github.com/alexhddev/CDK-course-resources)
+* [Udemy course — AWS TypeScript CDK, Serverless & React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/)
+
 ## Good references for CDK
 
 * [AWS CDK v2 API Reference](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
